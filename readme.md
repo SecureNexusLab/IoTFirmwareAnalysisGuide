@@ -9,9 +9,9 @@
 
 :handshake:gxh191[二进制安全爱好者]:e-mail: guoxuehhh@gmail.com
 
-:handshake: TheBinKing:email:thebinking66@gmail.com
+:handshake: TheBinKing:e-mail:thebinking66@gmail.com
 
-:handshake: Celeste:guoxb0_0@163.com
+:handshake: Celeste :e-mail:guoxb0_0@163.com
 
 
 # 指南大纲
