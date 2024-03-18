@@ -12,7 +12,7 @@
 :handshake: TheBinKing:e-mail:thebinking66@gmail.com
 
 :handshake: Celeste :e-mail:guoxb0_0@163.com
-
+:handshake: m2kar :e-mail:zhiqing.rui@gmail.com
 
 # 指南大纲
 - [0-环境配置](./GuideTutorial/0-环境配置.md)
