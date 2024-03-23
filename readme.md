@@ -5,7 +5,7 @@
 
 感谢以下各位师傅的辛勤付出，大家在阅读文章和学习的过程中遇到不妥当分析和描述，亦或者需要帮助的地方可直接通过邮箱联系各位师傅，同样也欢迎各位师傅的加入。
 
-:handshake: Arrebol [中科院软件所 南京软件技术研究院] :e-mail:caojun@njis.ac.cn 
+:handshake: Arrebol [中国科学院软件研究所 南京软件技术研究院] :e-mail:caojun@njis.ac.cn 
 
 :handshake:gxh191[二进制安全爱好者]:e-mail: guoxuehhh@gmail.com
 
@@ -13,7 +13,7 @@
 
 :handshake: 郭小白0_0 :e-mail:guoxb0_0@163.com
 
-:handshake: m2kar :e-mail:zhiqing@iscas.ac.cn
+:handshake: m2kar [中国科学院软件研究所] :e-mail:zhiqing@iscas.ac.cn
 
 # 指南大纲
 - [0-环境配置](./GuideTutorial/0-环境配置.md)
