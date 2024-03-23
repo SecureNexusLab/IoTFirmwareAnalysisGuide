@@ -11,7 +11,7 @@
 
 :handshake: TheBinKing:e-mail:thebinking66@gmail.com
 
-:handshake: Celeste :e-mail:guoxb0_0@163.com
+:handshake: 郭小白0_0 :e-mail:guoxb0_0@163.com
 
 :handshake: m2kar :e-mail:zhiqing@iscas.ac.cn
 
